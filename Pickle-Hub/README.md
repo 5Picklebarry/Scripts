@@ -15,13 +15,13 @@ Pickle Hub is a powerful hub for the popular online game, Roblox. It offers a va
 Here are a few screenshots of Pickle Hub in action:
 
 <div style="overflow: hidden;">
-  <div style="float: left; width: 33.33%; padding: 5px;">
+  <div style="float: left; width: 80%; padding: 5px;">
     <img src="https://cdn.discordapp.com/attachments/1072323369275498557/1076917514266755072/image.png" style="width: 80%;">
   </div>
-  <div style="float: left; width: 33.33%; padding: 5px;">
+  <div style="float: left; width: 80%; padding: 5px;">
     <img src="https://cdn.discordapp.com/attachments/1072323369275498557/1076918121044135936/image.png" style="width: 80%;">
   </div>
-  <div style="float: left; width: 33.33%; padding: 5px;">
+  <div style="float: left; width: 80%; padding: 5px;">
     <img src="https://cdn.discordapp.com/attachments/1072323369275498557/1076918566567284816/image.png" style="width: 80%;">
   </div>
 </div>
