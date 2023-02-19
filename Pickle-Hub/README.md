@@ -20,7 +20,7 @@ Here are a few screenshots of Pickle Hub in action:
 </div>
 
 <div align="center" style="margin-top: 20px">
-  <img src="https://cdn.discordapp.com/attachments/1072323369275498557/1076918566567284816/image.png" width="800">
+  <img src="https://cdn.discordapp.com/attachments/1072323369275498557/1076918566567284816/image.png" width="400">
 </div>
 
 ## Usage
