@@ -33,7 +33,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/5Picklebarry/Scripts
 
 ## Support
 
-If you encounter any issues or have any questions, please feel free to contact us on our discord https://discord.gg/gshvsmp8vY.
+If you encounter any issues or have any questions, please feel free to contact us on our [discord](https://discord.gg/gshvsmp8vY).
 
 ## License
 
