@@ -24,7 +24,9 @@ Here are a few screenshots of Pickle Hub in action:
 
 To use Pickle Hub, simply Just Put the loader loadstring in your executer in any supported game and your good!
 
-```loadstring(game:HttpGet(("https://raw.githubusercontent.com/5Picklebarry/Scripts/main/Pickle-Hub/Pickle-Hub-Loader.lua")))()```
+```lua
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/5Picklebarry/Scripts/main/Pickle-Hub/Pickle-Hub-Loader.lua")))()
+```
 
 ## Support
 
