@@ -2,7 +2,7 @@
 
 Pickle Hub is a powerful hub for the popular online game, Roblox. It offers a variety of features that allow players to automate many of the more repetitive or time-consuming tasks in the game, such as farming for resources or hatching eggs. 
 
-## Features
+##  Some Features
 
 - Automatic farming
 - Automatic purchasing
