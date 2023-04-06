@@ -1,7 +1,6 @@
 --[[
 This is the Pickle Hub Loader.
-
-Currently only 4 games supported.
+Currently only 5 games supported.
 ]]
 
 local gameLinks = {
@@ -10,6 +9,7 @@ local gameLinks = {
     [662417684] = "https://raw.githubusercontent.com/5Picklebarry/Scripts/main/Pickle-Hub/Lucky-Blocks-Battlegrounds.lua",
     [10704789056] = "https://raw.githubusercontent.com/5Picklebarry/Scripts/main/Pickle-Hub/Drive-World.lua",
     [11746859781] = "https://raw.githubusercontent.com/5Picklebarry/Scripts/main/Pickle-Hub/Bubble-Gum-Clicker.lua",
+    [2248408710] = "https://raw.githubusercontent.com/5Picklebarry/Scripts/main/Pickle-Hub/Destruction-Simulator",
 }
 
 if gameLinks[game.PlaceId] ~= nil then
